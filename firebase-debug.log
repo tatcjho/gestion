@@ -1,0 +1,21 @@
+[debug] [2021-07-31T03:33:00.024Z] ----------------------------------------------------------------------
+[debug] [2021-07-31T03:33:00.027Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Taty\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-07-31T03:33:00.027Z] CLI Version:   9.16.0
+[debug] [2021-07-31T03:33:00.027Z] Platform:      win32
+[debug] [2021-07-31T03:33:00.028Z] Node Version:  v14.17.4
+[debug] [2021-07-31T03:33:00.028Z] Time:          Fri Jul 30 2021 22:33:00 GMT-0500 (hora de Ecuador)
+[debug] [2021-07-31T03:33:00.029Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-07-31T03:33:00.037Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-07-31T03:33:00.038Z] > authorizing via signed-in user (tatycjho@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\tati\NIKOLASOFT\NIKOLA\web_vaz_seguros
+
